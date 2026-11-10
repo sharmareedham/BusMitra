@@ -1,0 +1,11 @@
+# Local database (recreated by import_csv.py)
+busmitra.db
+
+# Python cache
+__pycache__/
+
+# Bus data files
+data/routes.csv
+data/stops.csv
+data/transfers.csv
+users.db
